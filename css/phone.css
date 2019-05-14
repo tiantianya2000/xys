@@ -1,0 +1,120 @@
+@charset "utf-8";
+body{
+	font-family:punctuation, PingFangSC-Regular,"Microsoft YaHei","微软雅黑";
+}
+.cw{
+	padding-left: 13px;
+	padding-right: 11px;
+
+}
+.header{
+	margin-top: 16px;
+	margin-bottom: 15px;
+}
+
+.hd_rt{
+	
+	font-size: 0;
+}
+.hd_rt a{
+	vertical-align: bottom;
+	font-size: 16px;
+	color: #1570A5;
+}
+.tb{
+	background: url(../images/phone_caidan.jpg) no-repeat;
+	width: 22px;
+	height: 18px;
+	display: inline-block;
+}
+.tb1{
+	margin-left: 5px;
+	margin-right: 18px;
+	margin-top: 5px;
+}
+.nav{
+	padding: 0;
+}
+.nav ul li{
+	line-height: 40px;
+	background-color: #1570A5;
+	margin-bottom: 1px;
+}
+.nav ul li a{
+	color: #fff;
+	margin-left: 11px;
+}
+.nav .xiala{
+	background-color: #fff;
+	display: none;
+	position: static;
+	float:none;
+	padding-left: 13px;
+}
+.banner img{
+	width: 100%;
+}
+.banner2 img{
+	width: 100%;
+}
+.content{
+	margin-top: 24px;
+}
+.content li{
+	float: left;
+	width: 100%;
+}
+.content li img{
+	width: 100%;
+}
+.content li p{
+	font-size: 16px;
+	color: #1071A4;
+	padding-top: 10px;
+}
+.run{
+	margin-top: 50px;
+}
+.run li{
+	width: 40%;
+	float: left;
+	margin-bottom: 50px;
+	
+}
+.run .li3{
+	width: 20%;
+}
+.run li p{
+	height: 50px;
+	text-align: left;
+	margin-left: 10px;
+	margin-bottom: 5px;
+
+}
+.run li .p3{
+	margin-top: 8px;
+	height: 42px;
+}
+.run li span{
+	display:block;
+	width: 70px;
+	text-align: center;
+	font-size: 16px;
+	color: #1384C0;
+}
+
+
+
+
+
+
+
+
+
+
+.phone_hide{
+	display: none;
+}
+.phone_show{
+	display: block;
+}
