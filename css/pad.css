@@ -128,6 +128,24 @@
 	margin-bottom: 30px;
 	font-size: 30px;
 }
+
+.guan .g_b p{
+	display: inline-block;
+	margin-right: 10px;
+}
+.qt{
+	float: left;
+	margin-left: 20px;
+}
+.mon{
+	float: right;
+	margin-right: 100px;
+}
+.footer{
+	float: left;
+	margin-top: -200px;
+	margin-left: 25px;
+}
 .pad_hide{
 	display: none;
 }
